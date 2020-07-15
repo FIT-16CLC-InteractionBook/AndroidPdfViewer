@@ -10,10 +10,10 @@ ext {
 
     libraryDescription = 'Android view for displaying PDFs rendered with PdfiumAndroid'
 
-    siteUrl = 'https://github.com/barteksc/AndroidPdfViewer'
-    gitUrl = 'https://github.com/barteksc/AndroidPdfViewer.git'
+    siteUrl = 'https://github.com/FIT-16CLC-InteractionBook/AndroidPdfViewer'
+    gitUrl = 'https://github.com/FIT-16CLC-InteractionBook/AndroidPdfViewer.git'
 
-    libraryVersion = '3.2.0-beta.1'
+    libraryVersion = '3.3.0-beta.1'
 
     developerId = 'barteksc'
     developerName = 'Bartosz Schiller'
@@ -31,7 +31,7 @@ android {
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 1
-        versionName "3.2.0-beta.1"
+        versionName "3.3.0-beta.1"
     }
 
 }
